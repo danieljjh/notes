@@ -2,4 +2,4 @@
 
 my notes
 
-[Q-learning](#Q-Learning)
+[Q-learning](Q-Learning.md)
