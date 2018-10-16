@@ -11,3 +11,5 @@ https://github.com/ev3dev/ev3dev-lang-python
 https://python-ev3dev.readthedocs.io/en/ev3dev-stretch/
 
 
+### python gridwalk
+https://github.com/danieljjh/notes/blob/master/docs/gridwalk.py
