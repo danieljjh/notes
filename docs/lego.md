@@ -29,7 +29,7 @@ http://www.inpharmix.com/jps/PID_Controller_For_Lego_Mindstorms_Robots.html
 https://builderdude35.com/2016/10/06/pid-line-follower-for-ev3-the-ultimate-line-follower/
 
 ### sample code
-···
+```python
 Pseudo code for the PID controller
 To add the derivative term to the controller we need to add a new variable for Kd and a variable to remember the last error. And don't forget that we are multiplying our Ks by 100 to help with the integer math.
 
@@ -54,4 +54,4 @@ Loop forever
    MOTOR C direction=forward power=PowerC   ! same for the other motor but using the other power level
    lastError = error                  ! save the current error so it can be the lastError next time around
 end loop forever                      ! done with loop, go back and do it again.
-···
+```
