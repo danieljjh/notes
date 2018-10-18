@@ -55,3 +55,6 @@ Loop forever
    lastError = error                  ! save the current error so it can be the lastError next time around
 end loop forever                      ! done with loop, go back and do it again.
 ```
+
+## 齿轮
+http://bbs.cmnxt.com/thread-6814-1-1.html
