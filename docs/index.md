@@ -8,4 +8,6 @@ my notes
 
 [Lego dev](lego.md)
 
+[self driving](self_driving.md)
+
 [sub ](sub/sub1.md)
