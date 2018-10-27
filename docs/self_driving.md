@@ -18,3 +18,6 @@ http://book.openmv.cc/quick-starter.html
 
 https://www.pyimagesearch.com/2015/03/30/accessing-the-raspberry-pi-camera-with-opencv-and-python/
 
+## useful resouce
+
+[resources](https://github.com/danieljjh/notes/blob/master/docs/cv_dl_resource_guide.pdf)
