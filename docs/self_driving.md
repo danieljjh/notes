@@ -21,3 +21,7 @@ https://www.pyimagesearch.com/2015/03/30/accessing-the-raspberry-pi-camera-with-
 ## useful resouce
 
 [resources](https://github.com/danieljjh/notes/blob/master/docs/cv_dl_resource_guide.pdf)
+
+
+## 亚博
+http://yahboom.com/study/4wd-pi
