@@ -45,4 +45,15 @@ https://www.engineersgarage.com/contribution/interfacing-overcv-with-arduino
 
 ## i2c  主从机 双向通讯
 
-## arduino
+
+content arduino with raspberryPi
+[Connect Your Raspberry Pi and Arduino Uno!](http://www.instructables.com/id/Connect-Your-Raspberry-Pi-and-Arduino-Uno/)
+
+[Connect Raspberry Pi and Arduino with Serial USB Cable - Oscar Liang](https://oscarliang.com/connect-raspberry-pi-and-arduino-usb-cable/)
+
+## arduino car
+[Arduino入门笔记（9）：蓝牙模块及第一辆蓝牙遥控小车 - 小五义 - 博客园](http://www.cnblogs.com/xiaowuyi/p/3597371.html)
+
+https://www.arduino.cn/thread-3445-1-1.html
+
+
