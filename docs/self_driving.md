@@ -8,6 +8,8 @@ https://www.pyimagesearch.com/2017/10/16/raspberry-pi-deep-learning-object-detec
 
 https://github.com/lawsonkeith/picar
 
+https://makezine.com/projects/build-autonomous-rc-car-raspberry-pi/
+
 
 ## open mv
 
