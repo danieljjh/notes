@@ -10,6 +10,7 @@ https://github.com/lawsonkeith/picar
 
 https://makezine.com/projects/build-autonomous-rc-car-raspberry-pi/
 
+https://github.com/autorope/donkeycar
 
 ## open mv
 
@@ -37,3 +38,12 @@ http://yahboom.com/study/4wd-pi
 BST-4WD智能小车官网资料地址：http://www.yahboom.com/study/4wd
 密码：rl8n
 百度网盘汇总下载密码：1yyt
+
+
+智能小车机器人灰度传感器 颜色识别模块巡线寻线循迹模拟值 亚博
+~~~~~~~~~~~~~~~~~~~~~~~~~
+亲爱的！
+您的订单235804133649848470，已经帮您送达
+
+灰度传感器网盘地址链接：http://www.yahboom.com/study_module/HD
+密码：0g7f

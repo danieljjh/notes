@@ -31,3 +31,13 @@ https://github.com/iotJumpway/RPI-Examples/blob/master/_DOCS/2-Installing-OpenCV
 
 use pip virtulenv install opencv3
 https://www.pyimagesearch.com/2018/09/19/pip-install-opencv/
+
+
+### pi car
+
+https://www.instructables.com/id/Raspberry-Pi-Smartphone-Controlled-Rc-Car/
+
+
+## pi GPIO
+
+https://www.jianshu.com/p/f31b90cc756f
