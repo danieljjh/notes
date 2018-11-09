@@ -10,6 +10,14 @@ https://www.raspberrypi.org/documentation/
 ### 设置 wifi 连接
 http://shumeipai.nxez.com/2017/09/13/raspberry-pi-network-configuration-before-boot.html
 
+[wifi 设置](https://yq.aliyun.com/articles/27494)
+
+查看 pi 的 ip 地址
+`ifconfig | grep broadcast`
+
+### Mac 查看网上邻居 ip
+`arp -a`
+
 ### VNC 桌面连接
 http://shumeipai.nxez.com/2018/08/31/raspberry-pi-vnc-viewer-configuration-tutorial.html
 
