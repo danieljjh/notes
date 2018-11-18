@@ -12,7 +12,7 @@ http://wiki.openmv.cc/doku.php?id=example
 
 
 
-## opencv  串口传给 arduino
+## openmv  串口传给 arduino
 http://book.openmv.cc/MCU/serial1.html
 
 http://wiki.openmv.cc/doku.php?id=tutorial:6 

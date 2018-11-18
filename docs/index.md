@@ -13,3 +13,5 @@ my notes
 [sub ](sub/sub1.md)
 
 [project](https://github.com/danieljjh/smartCar)
+
+[raspberry pi](pi/pi.md)
