@@ -15,6 +15,16 @@ Use Picamera to capture image and video
 [Picamera Doc](https://picamera.readthedocs.io/en/latest/quickstart.html)
 
 
+### install opencv3
+
+https://www.pyimagesearch.com/2017/10/09/optimizing-opencv-on-the-raspberry-pi/
+
+
+use pip virtulenv install opencv3
+https://www.pyimagesearch.com/2017/09/04/raspbian-stretch-install-opencv-3-python-on-your-raspberry-pi/
+
+
+
 ### opencv python
 For object detect 
 [Opencv Python](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_tutorials.html)

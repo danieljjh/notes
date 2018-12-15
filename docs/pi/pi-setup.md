@@ -33,14 +33,15 @@ http://www.cnblogs.com/uestc-mm/p/7587783.html
 官方文档 picamera
 https://picamera.readthedocs.io/en/release-1.13/install.html
 
-
-### install opencv3
-
-https://www.pyimagesearch.com/2017/10/09/optimizing-opencv-on-the-raspberry-pi/
+### PWM
+[pwm](http://shumeipai.nxez.com/2016/09/28/rpi-gpio-module-basics.html)
 
 
-use pip virtulenv install opencv3
-https://www.pyimagesearch.com/2017/09/04/raspbian-stretch-install-opencv-3-python-on-your-raspberry-pi/
+### pi car example
+
+https://zhengludwig.wordpress.com/projects/self-driving-rc-car/
+
+https://www.hackster.io/bestd25/pi-car-016e66
 
 
 ### pi car
@@ -53,7 +54,21 @@ https://www.instructables.com/id/Raspberry-Pi-Smartphone-Controlled-Rc-Car/
 https://www.jianshu.com/p/f31b90cc756f
 
 
-### network
+## network
+
+### uart 外接串口
+https://zhuanlan.zhihu.com/p/38853178
+
+https://blog.csdn.net/qq_32384313/article/details/77745907
+
+https://blog.blahgeek.com/raspberry-pi-uartzong-xian-chuan-kou-lan-ya-mo-kuai-shi-yong-xiao-ji.html
+
+http://shumeipai.nxez.com/2016/08/08/solution-raspberry-pi3-serial-uart-use-issues.html
+
+byte 转 string
+https://techtutorialsx.com/2018/02/04/python-converting-string-to-bytes-object/
+
+
 
 
 
